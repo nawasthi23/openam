@@ -53,10 +53,10 @@ auth_config() {
 
 
 
-#create_realm
-#realm_config
-#datastore_config
-#auth_config
+create_realm
+realm_config
+datastore_config
+auth_config
 saml-config/setup-saml.sh
 
 exit 0
